@@ -83,9 +83,9 @@ If you:
 - Or just want to vibe over Python vs SQL debates...
 
 📬 **Let’s connect**:
-- [LinkedIn](https://www.linkedin.com/in/danaremu)  
-- [GitHub](https://github.com/codewithcastle)  
-- 📩 Email: danaremu.tech@gmail.com  
+- [LinkedIn: in/danaremu](https://www.linkedin.com/in/danaremu)
+- [GitHub: CodeWithCastle](https://github.com/codewithcastle)
+- [📩 Email: danaremu.tech@gmail.com](mailto:danaremu.tech@gmail.com) 
 
 > _“The best way to learn is to teach. The second best way? Fork someone’s repo and pretend you wrote it.”_ — Definitely not Confucius
 
