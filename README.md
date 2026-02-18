@@ -47,7 +47,7 @@ I believe in **learning out loud**, building with intent, and explaining things 
 - 🧠 **Data Engineering**: Building reliable, scalable ETL systems that don’t break when your boss looks at them
 - 💻 **Software Dev**: Full-stack apps powered by Python, React, PHP, JavaScript, and zero regrets
 - ☁️ **Cloud/DevOps**: CI/CD pipelines, Docker containers, and cloud-native deployments on AWS & GCP
-- 🧪 **ML & AI**: From logistic regression to recommendation systems that know your taste better than your friends
+- 🧪 **ML & AI**: From logistic regression,  to recommendation systems that know your taste better than your friends
 - 📊 **Dashboards & Analytics**: Making data make sense — and making stakeholders say "oooh"
 
 ---
@@ -56,6 +56,7 @@ I believe in **learning out loud**, building with intent, and explaining things 
 
 > Want to dive into some of my favorite builds? Check out:
 
+- 🧠 **Cognis** – ML-powered facial-recognition systems, using OpenCV, InsightFace & Redis 🚀
 - 📦 **Inventory Data Pipeline** – ETL meets elegance with Airflow, PostgreSQL, and real-time monitoring
 - 🎬 **Movie Recommendation System** – ML-powered movie picks based on your guilty pleasures
 - ❤️ **Cardiovascular Disease Detection** – Serious machine learning for serious impact
