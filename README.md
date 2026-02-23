@@ -33,8 +33,8 @@ I believe in **learning out loud**, building with intent, and explaining things 
 - 👯 I’m looking to collaborate on: **tutorials, devtools, data-driven projects, and maybe a startup?**
 - 🤔 I’m looking for help with: **convincing more devs to love (or at least like) data centric engineering**
 - 💬 Ask me about:  
-  - Python, SQL, React, Docker, Airflow, Spark, ML, AWS...  
-  - Or how to fix a pipeline at 3AM using pure intuition and tea
+  - Python, SQL, React, PHP, Docker, Airflow, Spark, ML, AWS...  
+  - Or how to fix a bug, model or pipeline at 3AM using pure intuition and tea
 - 📫 How to reach me: **danaremu.tech@gmail.com** || [LinkedIn](https://www.linkedin.com/in/danaremu) || [Github](https://www.github.com/danaremu)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact:  
