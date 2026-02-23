@@ -47,7 +47,7 @@ I believe in **learning out loud**, building with intent, and explaining things 
 - 🧠 **Data Engineering**: Building reliable, scalable ETL systems that don’t break when your boss looks at them
 - 💻 **Software Dev**: Full-stack apps powered by Python, React, PHP, JavaScript, and zero regrets
 - ☁️ **Cloud/DevOps**: CI/CD pipelines, Docker containers, and cloud-native deployments on AWS & GCP
-- 🧪 **ML & AI**: From logistic regression,  to recommendation systems that know your taste better than your friends
+- 🧪 **ML & AI**: End-to-end machine learning and AI — from classical models (e.g., logistic regression, tree-based methods, Bayesian approaches) and statistical learning, to deep learning (CNNs, RNNs, Transformers), computer vision (OpenCV), NLP, reinforcement learning, time-series forecasting, recommendation systems, generative models, and MLOps for scalable deployment and monitoring.
 - 📊 **Dashboards & Analytics**: Making data make sense — and making stakeholders say "oooh"
 
 ---
