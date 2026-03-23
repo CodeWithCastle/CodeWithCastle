@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 > *“Tech and Coding doesn’t have to be dull — and learning shouldn’t feel like homework.”*  
 > — Me. Just now.
 
-Hi, I’m **Dan Taiye Aremu**, but online I go by **Castle** 👑. I'm a ML Engineer | Data Engineer | Software Developer, and lifelong knowledge-sharer. I hope to help people turn confusion into clarity — whether it's building data pipelines, wrangling cloud services, or demystifying full-stack applications.
+Hi, I’m **D.A.**, but online I go by **Castle** 👑. I'm a ML Engineer | Data Engineer | Software Developer, and lifelong knowledge-sharer. I hope to help people turn confusion into clarity — whether it's building data pipelines, wrangling cloud services, or demystifying full-stack applications.
 
 I believe in **learning out loud**, building with intent, and explaining things like you’re five — but five with elite dev instincts.
 
@@ -35,8 +35,8 @@ I believe in **learning out loud**, building with intent, and explaining things 
 - 💬 Ask me about:  
   - Python, SQL, React, PHP, Docker, Airflow, Spark, ML, AWS...  
   - Or how to fix a bug, model or pipeline at 3AM using pure intuition and tea
-- 📫 How to reach me: **danaremu.tech@gmail.com** || [LinkedIn](https://www.linkedin.com/in/danaremu) || [Github](https://www.github.com/danaremu)
-- 😄 Pronouns: **He/Him**
+- 📫 How to reach me: **danaremu.tech@gmail.com** || [LinkedIn] || [Github]
+- 😄 Pronouns: **N/A**
 - ⚡ Fun fact:  
   One time, I debugged an ETL issue by accident — and I am thinking of writing a blog pretending I meant to.
 
@@ -84,9 +84,11 @@ If you:
 - Or just want to vibe over Python vs SQL debates...
 
 📬 **Let’s connect**:
+<!--
 - [LinkedIn: in/danaremu](https://www.linkedin.com/in/danaremu)
 - [GitHub: CodeWithCastle](https://github.com/codewithcastle)
 - [📩 Email: danaremu.tech@gmail.com](mailto:danaremu.tech@gmail.com) 
+-->
 
 > _“The best way to learn is to teach. The second best way? Fork someone’s repo and pretend you wrote it.”_ — Definitely not Confucius
 
